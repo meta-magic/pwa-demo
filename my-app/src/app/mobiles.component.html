@@ -1,0 +1,10 @@
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail" *ngFor="let row of data let rowIndex = index">
+      <img src="{{row.image}}" alt="{{row.name}}">
+      <div class="caption">
+        <h3>{{row.name}}</h3>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+{
+  "response": {
+    "success": true,
+    "message": "Fetching  Data  Request Succeeded: mobiles",
+    "data": [
+      {
+        "name" :"Iphone",
+        "description":"IPhone",
+        "image":"assets/iphone.jpeg"
+      },
+      {
+        "name" :"Moto",
+        "description":"Moto G",
+        "image":"assets/moto.jpeg"
+      },{
+        "name" :"Samsung",
+        "description":"Samsung",
+        "image":"assets/samsung.jpeg"
+      },
+      {
+        "name" :"Redmi",
+        "description":"Redmi",
+        "image":"assets/redmi.jpeg"
+      }
+
+
+    ]
+  }
+}
